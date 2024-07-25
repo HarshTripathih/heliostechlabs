@@ -1,0 +1,12 @@
+/* carouselStyles.css */
+.slick-dots li button:before {
+    font-size: 16px; /* Increase dot size */
+    color: black; /* Change dot color */
+    opacity: 0.75;
+  }
+  
+  .slick-dots li.slick-active button:before {
+    color: black;
+    opacity: 1;
+  }
+  
